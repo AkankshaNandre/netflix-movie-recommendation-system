@@ -1,9 +1,0 @@
-__pycache__/
-.ipynb_checkpoints/
-.venv/
-venv/
-.DS_Store
-*.pyc
-data/combined_data_1.txt
-data/combined_data_1.txt.zip
-data/movie_titles.csv
